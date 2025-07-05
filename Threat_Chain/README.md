@@ -1,1 +1,0 @@
-#This is my 1st smart Contract in javascript
